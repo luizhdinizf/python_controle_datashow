@@ -1,0 +1,2 @@
+ 
+screen -d -m python ~/Datashow/dormir.py
